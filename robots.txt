@@ -1,1 +1,1 @@
-Sitemap: https://robinsondani.github.io/robinsondani.github./sitemap.xml
+Sitemap: https://robinsondani.github.io/sitemap.xml
